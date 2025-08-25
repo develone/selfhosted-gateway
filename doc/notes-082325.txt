@@ -1,0 +1,15 @@
+08/23/25
+Gatewys & Tunnels
+Double NAT or CGNAT
+might block ports 80 & 443
+this is the link Installing Docker and Docker-Compose on your Servers
+https://wiki.opensourceisawesome.com/books/selfhosted-gateway-reverse-proxy/page/selfhosted-gateway
+wget https://gitlab.com/bmcgonag/docker_installs/-/raw/main/install_docker_nproxyman.sh
+create a tunnel reaxh out from home network hey here I am.
+
+create a tunnel reach out from home network hey here I am.
+server in cloud.
+docker docker-compose
+need domain maybe homewardroute.org
+route-me-home name of server
+ 
